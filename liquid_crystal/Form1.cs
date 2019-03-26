@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,18 +14,28 @@ namespace liquid_crystal
 {
     public partial class Form1 : Form
     {
+        bool noway = false;
         public point point1 = new point();
         public point save = new point();
         double pi = Math.PI;
         public Form1()
-        {
+        {            
             InitializeComponent();
+            //加载界面的相关数值
+            point1.X = (double)numericUpDown1.Value;
+            point1.Y = -(double)numericUpDown2.Value;
+            save.sita = ToAngle((double)numericUpDown3.Value);    
+            //设置试用条件
+            //if (File.Exists(@"D:\garbage_flage.data")) noway = true;
+            //else File.Create(@"D:\garbage_flage.data");       
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            point1.X = (double)numericUpDown1.Value;
-            point1.Y = -(double)numericUpDown2.Value;
-            save.sita = ToAngle((double)numericUpDown3.Value);    //加载界面的相关数值
+            if (noway)
+            {
+                MessageBox.Show("试用期结束，请联系开发者获取使用权限！");
+                Close();
+            }
         }
         public class point
         {
@@ -39,7 +50,7 @@ namespace liquid_crystal
         //角度转弧度
         public double ToAngle(double a)
         {
-            Console.WriteLine("相位差：{0}π", a / 180);  
+            label6.Text = "相位差: " + a / 180 + "π";
             return (a / 180) * Math.PI;            
         }
         private void pic_Click(object sender, EventArgs e)
@@ -49,7 +60,10 @@ namespace liquid_crystal
             int Yoffset = 150;
             Graphics g = this.CreateGraphics();
             g.Clear(Color.White);
-            Pen mypen = new Pen(Color.Black, 1);
+            Pen mypen = new Pen(Color.Black, 2);
+            point1.X = (double)numericUpDown1.Value;
+            point1.Y = -(double)numericUpDown2.Value;
+            save.sita = ToAngle((double)numericUpDown3.Value);    //加载界面的相关数值
 
             //判断左右旋
             int a = (int)(point1.sita / (2 * pi));
@@ -73,11 +87,8 @@ namespace liquid_crystal
             {
                 if (point1.X == -point1.Y) show = "左旋圆偏振光";
                 else show = "左旋椭圆偏振光";
-            }
-            
-            label_change.Text = show;
-            pic.Enabled = true;
-
+            }            
+            label_change.Text = show;                     
             for (double i = 0; i <= 45; i= i+0.01)
             {     
                 point1.X1 = point1.X * Math.Cos(0 + i) + Xoffset;
@@ -89,30 +100,26 @@ namespace liquid_crystal
                 g.DrawLine(mypen, (float)point1.X1, (float)point1.Y1, (float)point1.X2, (float)point1.Y2);  //绘制图像
             }
             Thread.Sleep(200);
+            pic.Enabled = true;
         }
-
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
             save = point1;            
             save.X = (double)numericUpDown1.Value;              
             point1 = save;
         }
-
         private void numericUpDown2_ValueChanged(object sender, EventArgs e)
         {
             save = point1;
             save.Y = -(double)numericUpDown2.Value;
             point1 = save;
         }
-
         private void numericUpDown3_ValueChanged(object sender, EventArgs e)
         {
             save = point1;
             save.sita = ToAngle((double)numericUpDown3.Value);    //sita为弧度值  
             point1 = save;
             //Console.WriteLine("sita = {0}!",point1.sita);
-        }
-
-    
+        }  
     }
 }
