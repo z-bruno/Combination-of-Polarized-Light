@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\bin\Debug\liquid_crystal.exe.config
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\bin\Debug\liquid_crystal.exe
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\bin\Debug\liquid_crystal.pdb
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\obj\Debug\liquid_crystal.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\obj\Debug\liquid_crystal.Form1.resources
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\obj\Debug\liquid_crystal.Properties.Resources.resources
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\obj\Debug\liquid_crystal.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\obj\Debug\liquid_crystal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\obj\Debug\liquid_crystal.exe
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\obj\Debug\liquid_crystal.pdb
