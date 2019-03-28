@@ -1,0 +1,43 @@
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\bin\Debug\liquid_crystal.exe.config
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\bin\Debug\liquid_crystal.exe
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\bin\Debug\liquid_crystal.pdb
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\obj\Debug\liquid_crystal.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\obj\Debug\liquid_crystal.Form1.resources
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\obj\Debug\liquid_crystal.Properties.Resources.resources
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\obj\Debug\liquid_crystal.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\obj\Debug\liquid_crystal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\obj\Debug\liquid_crystal.exe
+C:\Users\Administrator\source\repos\liquid_crystal\liquid_crystal\obj\Debug\liquid_crystal.pdb
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\bin\Debug\liquid_crystal.exe.config
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\bin\Debug\liquid_crystal.exe
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\bin\Debug\liquid_crystal.pdb
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Debug\liquid_crystal.Form1.resources
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Debug\liquid_crystal.Properties.Resources.resources
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Debug\liquid_crystal.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Debug\liquid_crystal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Debug\liquid_crystal.exe
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Debug\liquid_crystal.pdb
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Debug\liquid_crystal.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\bin\Debug\storeroom.dll
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Debug\liquid_crystal.csproj.CopyComplete
+C:\Users\hasee\Desktop\偏振光合成_开源版本\liquid_crystal\bin\Debug\liquid_crystal.exe.config
+C:\Users\hasee\Desktop\偏振光合成_开源版本\liquid_crystal\obj\Debug\liquid_crystal.exe
+C:\Users\hasee\Desktop\偏振光合成_开源版本\liquid_crystal\obj\Debug\liquid_crystal.pdb
+C:\Users\hasee\Desktop\偏振光合成_开源版本\liquid_crystal\bin\Debug\liquid_crystal.exe
+C:\Users\hasee\Desktop\偏振光合成_开源版本\liquid_crystal\bin\Debug\liquid_crystal.pdb
+C:\Users\hasee\Desktop\偏振光合成_开源版本\liquid_crystal\obj\Debug\liquid_crystal.Properties.Resources.resources
+C:\Users\hasee\Desktop\偏振光合成_开源版本\liquid_crystal\obj\Debug\liquid_crystal.csproj.GenerateResource.Cache
+C:\Users\hasee\Desktop\偏振光合成_开源版本\liquid_crystal\bin\Debug\storeroom.pdb
+C:\Users\hasee\Desktop\偏振光合成_开源版本\liquid_crystal\obj\Debug\liquid_crystal.liquid_crystal.resources
+C:\Users\hasee\Desktop\偏振光合成_开源版本 - 副本\liquid_crystal\bin\Debug\liquid_crystal.exe.config
+C:\Users\hasee\Desktop\偏振光合成_开源版本 - 副本\liquid_crystal\obj\Debug\liquid_crystal.exe
+C:\Users\hasee\Desktop\偏振光合成_开源版本 - 副本\liquid_crystal\obj\Debug\liquid_crystal.pdb
+C:\Users\hasee\Desktop\偏振光合成_开源版本 - 副本\liquid_crystal\bin\Debug\liquid_crystal.exe
+C:\Users\hasee\Desktop\偏振光合成_开源版本 - 副本\liquid_crystal\bin\Debug\liquid_crystal.pdb
+C:\Users\hasee\Desktop\偏振光合成_开源版本 - 副本\liquid_crystal\bin\Debug\storeroom.pdb
+C:\Users\hasee\Desktop\偏振光合成_开源版本 - 副本\liquid_crystal\obj\Debug\liquid_crystal.csprojResolveAssemblyReference.cache
+C:\Users\hasee\Desktop\偏振光合成_开源版本 - 副本\liquid_crystal\obj\Debug\liquid_crystal.liquid_crystal.resources
+C:\Users\hasee\Desktop\偏振光合成_开源版本 - 副本\liquid_crystal\obj\Debug\liquid_crystal.Properties.Resources.resources
+C:\Users\hasee\Desktop\偏振光合成_开源版本 - 副本\liquid_crystal\obj\Debug\liquid_crystal.csproj.GenerateResource.Cache
+C:\Users\hasee\Desktop\偏振光合成_开源版本 - 副本\liquid_crystal\bin\Debug\storeroom.dll
+C:\Users\hasee\Desktop\偏振光合成_开源版本\liquid_crystal\bin\Debug\storeroom.dll

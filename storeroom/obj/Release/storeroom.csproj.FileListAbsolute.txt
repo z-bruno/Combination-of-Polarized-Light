@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\aaa\storeroom\bin\Release\storeroom.dll
+C:\Users\Administrator\source\repos\aaa\storeroom\bin\Release\storeroom.pdb
+C:\Users\Administrator\source\repos\aaa\storeroom\obj\Release\storeroom.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\aaa\storeroom\obj\Release\storeroom.dll
+C:\Users\Administrator\source\repos\aaa\storeroom\obj\Release\storeroom.pdb
+C:\Users\hasee\Desktop\storeroom\bin\Release\storeroom.dll
+C:\Users\hasee\Desktop\storeroom\bin\Release\storeroom.pdb
+C:\Users\hasee\Desktop\storeroom\obj\Release\storeroom.dll
+C:\Users\hasee\Desktop\storeroom\obj\Release\storeroom.pdb

@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\aaa\storeroom\bin\Debug\storeroom.dll
+C:\Users\Administrator\source\repos\aaa\storeroom\bin\Debug\storeroom.pdb
+C:\Users\Administrator\source\repos\aaa\storeroom\obj\Debug\storeroom.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\aaa\storeroom\obj\Debug\storeroom.dll
+C:\Users\Administrator\source\repos\aaa\storeroom\obj\Debug\storeroom.pdb
+C:\Users\hasee\Desktop\storeroom\bin\Debug\storeroom.dll
+C:\Users\hasee\Desktop\storeroom\bin\Debug\storeroom.pdb
+C:\Users\hasee\Desktop\storeroom\obj\Debug\storeroom.dll
+C:\Users\hasee\Desktop\storeroom\obj\Debug\storeroom.pdb
+C:\Users\hasee\Desktop\storeroom\obj\Debug\storeroom.csprojResolveAssemblyReference.cache

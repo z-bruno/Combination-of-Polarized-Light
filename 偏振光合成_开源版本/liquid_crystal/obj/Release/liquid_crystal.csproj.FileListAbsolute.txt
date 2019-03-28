@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\bin\Release\liquid_crystal.exe.config
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\bin\Release\liquid_crystal.exe
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\bin\Release\liquid_crystal.pdb
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Release\liquid_crystal.Form1.resources
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Release\liquid_crystal.Properties.Resources.resources
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Release\liquid_crystal.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Release\liquid_crystal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Release\liquid_crystal.csproj.CopyComplete
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Release\liquid_crystal.exe
+C:\Users\Administrator\source\repos\aaa\liquid_crystal\obj\Release\liquid_crystal.pdb
+C:\Users\hasee\Desktop\偏振光合成_开源版本\liquid_crystal\bin\Release\liquid_crystal.exe.config
+C:\Users\hasee\Desktop\偏振光合成_开源版本\liquid_crystal\obj\Release\liquid_crystal.exe
+C:\Users\hasee\Desktop\偏振光合成_开源版本\liquid_crystal\obj\Release\liquid_crystal.pdb
