@@ -39,6 +39,7 @@
             this.label_change = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.label_try = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).BeginInit();
@@ -47,15 +48,14 @@
             // numericUpDown1
             // 
             this.numericUpDown1.DecimalPlaces = 2;
-            this.numericUpDown1.Location = new System.Drawing.Point(212, 399);
-            this.numericUpDown1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.numericUpDown1.Location = new System.Drawing.Point(159, 319);
             this.numericUpDown1.Minimum = new decimal(new int[] {
             20,
             0,
             0,
             0});
             this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(160, 25);
+            this.numericUpDown1.Size = new System.Drawing.Size(120, 21);
             this.numericUpDown1.TabIndex = 0;
             this.numericUpDown1.Value = new decimal(new int[] {
             40,
@@ -67,15 +67,14 @@
             // numericUpDown2
             // 
             this.numericUpDown2.DecimalPlaces = 2;
-            this.numericUpDown2.Location = new System.Drawing.Point(212, 449);
-            this.numericUpDown2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.numericUpDown2.Location = new System.Drawing.Point(159, 359);
             this.numericUpDown2.Minimum = new decimal(new int[] {
             20,
             0,
             0,
             0});
             this.numericUpDown2.Name = "numericUpDown2";
-            this.numericUpDown2.Size = new System.Drawing.Size(160, 25);
+            this.numericUpDown2.Size = new System.Drawing.Size(120, 21);
             this.numericUpDown2.TabIndex = 1;
             this.numericUpDown2.Value = new decimal(new int[] {
             40,
@@ -87,10 +86,9 @@
             // pic
             // 
             this.pic.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.pic.Location = new System.Drawing.Point(531, 449);
-            this.pic.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pic.Location = new System.Drawing.Point(398, 359);
             this.pic.Name = "pic";
-            this.pic.Size = new System.Drawing.Size(135, 49);
+            this.pic.Size = new System.Drawing.Size(101, 39);
             this.pic.TabIndex = 4;
             this.pic.Text = "绘图";
             this.pic.UseVisualStyleBackColor = true;
@@ -99,8 +97,7 @@
             // numericUpDown3
             // 
             this.numericUpDown3.DecimalPlaces = 2;
-            this.numericUpDown3.Location = new System.Drawing.Point(212, 492);
-            this.numericUpDown3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.numericUpDown3.Location = new System.Drawing.Point(159, 394);
             this.numericUpDown3.Maximum = new decimal(new int[] {
             1000,
             0,
@@ -112,7 +109,7 @@
             0,
             -2147483648});
             this.numericUpDown3.Name = "numericUpDown3";
-            this.numericUpDown3.Size = new System.Drawing.Size(160, 25);
+            this.numericUpDown3.Size = new System.Drawing.Size(120, 21);
             this.numericUpDown3.TabIndex = 5;
             this.numericUpDown3.ValueChanged += new System.EventHandler(this.numericUpDown3_ValueChanged);
             // 
@@ -120,10 +117,9 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label1.Location = new System.Drawing.Point(150, 399);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(112, 319);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(36, 24);
+            this.label1.Size = new System.Drawing.Size(31, 19);
             this.label1.TabIndex = 6;
             this.label1.Text = "X:";
             // 
@@ -131,10 +127,9 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label2.Location = new System.Drawing.Point(150, 446);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(112, 357);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(36, 24);
+            this.label2.Size = new System.Drawing.Size(31, 19);
             this.label2.TabIndex = 7;
             this.label2.Text = "Y:";
             // 
@@ -142,10 +137,9 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label3.Location = new System.Drawing.Point(64, 490);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(48, 392);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(113, 24);
+            this.label3.Size = new System.Drawing.Size(95, 19);
             this.label3.TabIndex = 8;
             this.label3.Text = "φ(Y-X):";
             // 
@@ -153,10 +147,9 @@
             // 
             this.label_change.AutoSize = true;
             this.label_change.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label_change.Location = new System.Drawing.Point(207, 338);
-            this.label_change.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label_change.Location = new System.Drawing.Point(155, 270);
             this.label_change.Name = "label_change";
-            this.label_change.Size = new System.Drawing.Size(88, 24);
+            this.label_change.Size = new System.Drawing.Size(75, 19);
             this.label_change.TabIndex = 9;
             this.label_change.Text = "......";
             // 
@@ -165,10 +158,9 @@
             this.label5.AutoSize = true;
             this.label5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.label5.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label5.Location = new System.Drawing.Point(179, 11);
-            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Location = new System.Drawing.Point(134, 9);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(435, 24);
+            this.label5.Size = new System.Drawing.Size(349, 19);
             this.label5.TabIndex = 11;
             this.label5.Text = "假定波的传播方向为垂直界面向内传播";
             // 
@@ -176,32 +168,42 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label6.Location = new System.Drawing.Point(207, 522);
-            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label6.Location = new System.Drawing.Point(155, 418);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(88, 24);
+            this.label6.Size = new System.Drawing.Size(75, 19);
             this.label6.TabIndex = 12;
             this.label6.Text = "......";
             // 
-            // Form1
+            // label_try
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
+            this.label_try.AutoSize = true;
+            this.label_try.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label_try.Location = new System.Drawing.Point(567, 418);
+            this.label_try.Name = "label_try";
+            this.label_try.Size = new System.Drawing.Size(42, 19);
+            this.label_try.TabIndex = 13;
+            this.label_try.Text = "OUT";
+            this.label_try.Visible = false;
+            // 
+            // liquid_crystal
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(848, 581);
+            this.ClientSize = new System.Drawing.Size(636, 465);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label_change);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Controls.Add(this.label_try);
             this.Controls.Add(this.numericUpDown3);
             this.Controls.Add(this.pic);
             this.Controls.Add(this.numericUpDown2);
             this.Controls.Add(this.numericUpDown1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.Name = "Form1";
+            this.Name = "liquid_crystal";
             this.Text = "偏振光合成      ";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
@@ -224,6 +226,7 @@
         public System.Windows.Forms.Label label_change;
         public System.Windows.Forms.Label label5;
         public System.Windows.Forms.Label label6;
+        public System.Windows.Forms.Label label_try;
     }
 }
 

@@ -8,3 +8,9 @@ C:\Users\hasee\Desktop\storeroom\bin\Debug\storeroom.pdb
 C:\Users\hasee\Desktop\storeroom\obj\Debug\storeroom.dll
 C:\Users\hasee\Desktop\storeroom\obj\Debug\storeroom.pdb
 C:\Users\hasee\Desktop\storeroom\obj\Debug\storeroom.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Combination-of-Polarized-Light\storeroom\bin\Debug\storeroom.dll
+C:\Users\Administrator\Desktop\Combination-of-Polarized-Light\storeroom\bin\Debug\storeroom.pdb
+C:\Users\Administrator\Desktop\Combination-of-Polarized-Light\storeroom\obj\Debug\storeroom.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Combination-of-Polarized-Light\storeroom\obj\Debug\storeroom.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Combination-of-Polarized-Light\storeroom\obj\Debug\storeroom.dll
+C:\Users\Administrator\Desktop\Combination-of-Polarized-Light\storeroom\obj\Debug\storeroom.pdb

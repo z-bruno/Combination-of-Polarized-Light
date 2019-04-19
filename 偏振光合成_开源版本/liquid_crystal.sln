@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Blend for Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Blend for Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "liquid_crystal", "liquid_crystal\liquid_crystal.csproj", "{4F747643-305A-49A9-B865-84CF0897914B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "storeroom", "..\storeroom\storeroom.csproj", "{77DF518A-C14E-4815-A9F6-79A606A65901}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4F747643-305A-49A9-B865-84CF0897914B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F747643-305A-49A9-B865-84CF0897914B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F747643-305A-49A9-B865-84CF0897914B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DF518A-C14E-4815-A9F6-79A606A65901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DF518A-C14E-4815-A9F6-79A606A65901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DF518A-C14E-4815-A9F6-79A606A65901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DF518A-C14E-4815-A9F6-79A606A65901}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
