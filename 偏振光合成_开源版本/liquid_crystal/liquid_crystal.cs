@@ -19,6 +19,36 @@ namespace liquid_crystal
         }
         public void Form1_Load(object sender, EventArgs e)
         {
+
+            //试用期设置
+            //RegistryKey RootKey, RegKey;
+            ////项名为：HKEY_CURRENT_USERSoftware
+            //RootKey = Registry.CurrentUser.OpenSubKey("Software", true);
+
+            ////打开子项：HKEY_CURRENT_USERSoftwareMyRegDataApp
+            //if ((RegKey = RootKey.OpenSubKey("MyRegDataApp", true)) == null)
+            //{
+            //    RootKey.CreateSubKey("MyRegDataApp");//不存在，则创建子项
+            //    RegKey = RootKey.OpenSubKey("MyRegDataApp", true);
+            //    RegKey.SetValue("UseTime", (object)10);    //创建键值，存储可使用次数
+            //    MessageBox.Show("您可以免费使用本软件10次！", "感谢您首次使用");
+            //}
+            //object usetime = RegKey.GetValue("UseTime");//读取键值，可使用次数
+            //MessageBox.Show("你还可以使用本软件 :" + usetime.ToString() + "次！", "确认", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            //int newtime = Int32.Parse(usetime.ToString()) - 1;
+            //if (newtime < 0)
+            //{
+            //    if (MessageBox.Show("继续使用，请购买本软件！", "提示", MessageBoxButtons.OK, MessageBoxIcon.Information) == DialogResult.OK)
+            //    {
+            //        Application.Exit();
+            //    }
+            //}
+            //else
+            //{
+            //    RegKey.SetValue("UseTime", (object)newtime);//更新键值，可使用次数减1
+            //}
+
+
             string[] str = Registry.CurrentUser.GetSubKeyNames();
             foreach(string s in str)
             {

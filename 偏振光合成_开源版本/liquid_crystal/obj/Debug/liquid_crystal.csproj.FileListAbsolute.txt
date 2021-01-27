@@ -54,3 +54,6 @@ C:\Users\Administrator\Desktop\Combination-of-Polarized-Light\偏振光合成_�
 C:\Users\Administrator\Desktop\Combination-of-Polarized-Light\偏振光合成_开源版本\liquid_crystal\bin\Debug\storeroom.dll
 C:\Users\Administrator\Desktop\Combination-of-Polarized-Light\偏振光合成_开源版本\liquid_crystal\bin\Debug\storeroom.pdb
 C:\Users\Administrator\Desktop\Combination-of-Polarized-Light\偏振光合成_开源版本\liquid_crystal\obj\Debug\liquid_crystal.csproj.CopyComplete
+C:\Users\hasee\Desktop\Combination-of-Polarized-Light\偏振光合成_开源版本\liquid_crystal\bin\Debug\liquid_crystal.exe.config
+C:\Users\hasee\Desktop\Combination-of-Polarized-Light\偏振光合成_开源版本\liquid_crystal\obj\Debug\liquid_crystal.exe
+C:\Users\hasee\Desktop\Combination-of-Polarized-Light\偏振光合成_开源版本\liquid_crystal\obj\Debug\liquid_crystal.pdb
